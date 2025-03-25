@@ -1,0 +1,16 @@
+Product ID,Product Name,Category,Price,Stock,Total Sales
+P001,Wireless Mouse,Electronics,25.98,65,207.84
+P002,Office Chair,Furniture,120.0,60,7200.0
+P003,Keyboard,Electronics,45.50,110,5005.0
+P004,Desk Lamp,Home Decor,19.99,200,3998.00
+P005,Smartphone,Electronics,599.99,50,29999.50
+P006,Monitor,Electronics,299.99,60,5999.8
+P007,Ergonomic Chair,Furniture,149.99,40,5999.60
+P008,USB Cable,Accessories,7.99,500,3995.00
+P009,Portable Speaker,Electronics,59.99,75,4499.25
+P010,Mouse Pad,Accessories,9.99,300,2997.00
+P011,CPU,Accessories,27.99,100,2799.0
+P012,Pen,Stationary,10.0,110,100.0
+P013,Book,Stationary,45.0,80,3600.0
+P015,Eraser,Stationary,10.0,50,500.0
+P016,Scale,Stationary,15.0,55,300.0
